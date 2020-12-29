@@ -6,4 +6,4 @@ For Windows users, first install Tesseract-OCR from here - https://github.com/UB
 Install dependencies listed in the requirements.txt file.
 
 Example images have been provided for testing purposes.
-Sample results from input(image example_07) are stored in Parsed.txt file.
+Sample results from input (image example_07) are saved in Parsed.txt file.
